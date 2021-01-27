@@ -1,2 +1,14 @@
 #/bin/bash
+<<<<<<< HEAD
 echo "Holberton School"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+echo "Holberton School is so cool!"
+=======
+echo "Holberton School"
+>>>>>>> update_script
+=======
+echo "Holberton School"
+>>>>>>> update_script
+>>>>>>> main
